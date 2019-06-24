@@ -60,3 +60,13 @@ a, a:hover, button, button:hover, .anime {
     transition: all 200ms linear;
     cursor: pointer;
 }
+
+/**********  **********/
+
+body {
+    background-color: #fff;
+    font-family: 'Proxima Nova', Helvetica, Arial, sans-serif;
+    font-size: 1.87vmax;
+    line-height: 2,43vmax;
+    color: #323232;
+}
