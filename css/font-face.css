@@ -21,3 +21,15 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'proxima_nova_softmedium';
+    src: url('fonts/proxima_nova_soft-medium/proximanovasoft-medium-webfont.eot');
+    src: url('fonts/proxima_nova_soft-medium/proximanovasoft-medium-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/proxima_nova_soft-medium/proximanovasoft-medium-webfont.woff2') format('woff2'),
+        url('fonts/proxima_nova_soft-medium/proximanovasoft-medium-webfont.woff') format('woff'),
+        url('fonts/proxima_nova_soft-medium/proximanovasoft-medium-webfont.ttf') format('truetype'),
+        url('fonts/proxima_nova_soft-medium/proximanovasoft-medium-webfont.svg#proxima_nova_softmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
