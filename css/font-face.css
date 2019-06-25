@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'stencilnormal';
+    src: url('fonts/stencil/stencil-webfont.eot');
+    src: url('fonts/stencil/stencil-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/stencil/stencil-webfont.woff2') format('woff2'),
+        url('fonts/stencil/stencil-webfont.woff') format('woff'),
+        url('fonts/stencil/stencil-webfont.ttf') format('truetype'),
+        url('fonts/stencil/stencil-webfont.svg#stencilnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
